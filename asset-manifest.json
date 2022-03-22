@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rassign-one/static/css/main.073c9b0a.css",
+    "main.js": "/rassign-one/static/js/main.fcad921f.js",
+    "static/js/787.b56fb57d.chunk.js": "/rassign-one/static/js/787.b56fb57d.chunk.js",
+    "index.html": "/rassign-one/index.html",
+    "main.073c9b0a.css.map": "/rassign-one/static/css/main.073c9b0a.css.map",
+    "main.fcad921f.js.map": "/rassign-one/static/js/main.fcad921f.js.map",
+    "787.b56fb57d.chunk.js.map": "/rassign-one/static/js/787.b56fb57d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fcad921f.js"
+  ]
+}
